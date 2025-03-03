@@ -34,7 +34,7 @@ Bu proje, sinema tarihinin en iyi filmlerini tanıtan basit bir HTML web sayfas�
 
 ```
 📁 gelmis-gecmis-en-guzel-filmler
- ├── index.html  # Ana HTML dosyası
+ ├── web-odev.html  # Ana HTML dosyası
  ├── assets/  # Görsellerin bulunduğu klasör
  │   ├── esaret.jpeg
  │   ├── baba.jpeg
